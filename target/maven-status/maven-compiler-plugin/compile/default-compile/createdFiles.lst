@@ -1,0 +1,7 @@
+com\demo\model\LoginRequest.class
+com\demo\App.class
+com\demo\controller\LoginController.class
+com\demo\entity\Admin.class
+com\demo\service\UserService.class
+com\demo\service\UserServiceImpl.class
+com\demo\repository\UserRepository.class
